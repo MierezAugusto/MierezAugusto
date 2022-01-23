@@ -1,4 +1,4 @@
-[![Mierez Omar Augusto José](https://readme-typing-svg.herokuapp.com?font=Rubik&color=%235EA6F7&size=42&vCenter=true&height=25&lines=%3E+Mierez+Omar+Augusto+José)](https://github.com/MierezAugusto)
+[![Mierez Omar Augusto José](https://readme-typing-svg.herokuapp.com?font=Rubik&color=%235EA6F7&size=42&vCenter=true&height=42&lines=%3E+Mierez+Omar+Augusto+José)](https://github.com/MierezAugusto)
 
 ![image](https://user-images.githubusercontent.com/85651836/150693379-fa449851-0790-41b0-88a2-0e18fc098e8e.png)
 
