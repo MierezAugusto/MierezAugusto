@@ -14,6 +14,10 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=MierezAugusto&show_icons=true) ------------------- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MierezAugusto&theme=blue-green)
 
+[![CONTACTO](https://readme-typing-svg.herokuapp.com?font=Rubik&color=red&size=25&vCenter=true&height=25&lines=%3E+CONTACTO)](https://github.com/MierezAugusto)
+
+
+
 
 
 
