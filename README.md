@@ -18,7 +18,7 @@
 
 
 <p > <!-- Gmail -->
-  <a href="mailto:augustomierez@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="mailto:augustomierez@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <br />
    <b>Email: augustomierez@gmail.com</b>
 </p>
@@ -26,7 +26,13 @@
    <a href="https://www.linkedin.com/in/augusto-mierez/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br/>
   <b>Linkedin:linkedin.com/in/augusto-mierez</b>
- </p> 
+ </p>
+  <a href="
+https://api.whatsapp.com/send?phone=1158793280&text=Hola%20!!!"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <br/>
+  <b>Whatsapp: 11-5879-3280</b>
+ </p>
+ 
 
 
 
