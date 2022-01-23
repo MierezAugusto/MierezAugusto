@@ -25,7 +25,7 @@
 <p><!--linkedin -->
    <a href="https://www.linkedin.com/in/augusto-mierez/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br/>
-  <b>Linkedin:linkedin.com/in/augusto-mierez</b>
+  <b>Linkedin: linkedin.com/in/augusto-mierez</b>
  </p>
   <a href="https://api.whatsapp.com/send?phone=+5491158793280&text=Hola%20!!!"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <br/>
