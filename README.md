@@ -17,12 +17,16 @@
 [![CONTACTO](https://readme-typing-svg.herokuapp.com?font=Rubik&color=red&size=32&vCenter=true&height=32&lines=%3E+CONTACTO)](https://github.com/MierezAugusto)
 
 
-<p >
-  <b>Email: augustomierez@gmail.com</b>
-  <br />
-  <!-- Gmail -->
+<p > <!-- Gmail -->
   <a href="mailto:augustomierez@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <br />
+   <b>Email: augustomierez@gmail.com</b>
 </p>
+<p><!--linkedin -->
+   <a href="https://www.linkedin.com/in/augusto-mierez/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <br/>
+  <b>Linkedin:linkedin.com/in/augusto-mierez</b>
+ </p> 
 
 
 
