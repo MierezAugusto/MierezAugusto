@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/85651836/150687948-2701f768-b21a-4aeb-a835-d9d87d42d97f.png)
+![image](https://user-images.githubusercontent.com/85651836/150688775-384f1399-0f47-4ac3-8d7d-296eb7f95e75.png)
+
+#SKILLS:
 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
