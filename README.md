@@ -6,6 +6,7 @@
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 
 
 Here are some ideas to get you started:
