@@ -1,7 +1,9 @@
-![image](https://user-images.githubusercontent.com/85651836/150692581-e11f1261-9a82-428a-bc84-451bb7b45c09.png)
+# MIEREZ OMAR AUGUSTO JOSÉ
+
+![image](https://user-images.githubusercontent.com/85651836/150693379-fa449851-0790-41b0-88a2-0e18fc098e8e.png)
 
 # SKILLS:
-
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -10,6 +12,8 @@
 
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=MierezAugusto&show_icons=true) ------------------- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MierezAugusto&theme=blue-green)
+
+
 
 
 
