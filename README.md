@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/85651836/150688775-384f1399-0f47-4ac3-8d7d-296eb7f95e75.png)
+![image](https://user-images.githubusercontent.com/85651836/150692470-19149cea-a173-484f-a1cf-e5e9b283bdc2.png)
 
 # SKILLS:
 
@@ -9,7 +9,7 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=MierezAugusto&show_icons=true)       ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MierezAugusto&theme=blue-green)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=MierezAugusto&show_icons=true)                            ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MierezAugusto&theme=blue-green)
 
 
 
