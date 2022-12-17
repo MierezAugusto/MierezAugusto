@@ -27,13 +27,10 @@
   <br/>
   <b>Linkedin: linkedin.com/in/augusto-mierez</b>
  </p>
+<p>
   <a href="https://api.whatsapp.com/send?phone=+5491158793280&text=Hola%20!!!"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <br/>
   <b>Whatsapp: 11-5879-3280</b>
- </p>
- <a  href="https://twitter.com/mierez_augusto" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter: @mierez_augusto"/></a>
- <br/>
-  <b>Twitter: @mierez_augusto</b>
  </p>
  
 
